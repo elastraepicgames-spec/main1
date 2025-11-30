@@ -9,6 +9,7 @@ local Games = {
   [9126204352] = "https://raw.githubusercontent.com/gumanba/Scripts/refs/heads/main/SlasherBladeLoot",
   [601130232] = "https://raw.githubusercontent.com/DevKron/Kron_Hub/refs/heads/main/version_1.0",
   [5584605705] = "https://raw.githubusercontent.com/elastraepicgames-spec/combat-surf/refs/heads/main/README.md",
+  [7072674902] = "https://expectional.dev/loadstring/Defuse-Division.lua",
 }
 
 return Games
