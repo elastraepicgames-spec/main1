@@ -1,6 +1,6 @@
 local Games = {
   [994732206] = "https://raw.githubusercontent.com/AhmadV99/Script-Games/main/Blox%20Fruit.lua",
-  [1268927906] = "https://pastebin.com/raw/F6JbKAaC",
+  [13822562292] = "https://pastebin.com/raw/F6JbKAaC",
   [3808081382] = "https://raw.githubusercontent.com/AhmadV99/Script-Games/main/The%20Strongest%20Battleground.lua",
 }
 
