@@ -3,4 +3,4 @@ local Games = {
     [1268927906] = "https://raw.githubusercontent.com/AhmadV99/Script-Games/main/Muscle%20Legends.lua", -- Muscle Legends
   }
   
-  return Games
+return Games
